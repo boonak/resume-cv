@@ -1,6 +1,6 @@
 # Worayut Aksornukul (Boon)
 
-<div align="center">
+<div align="left">
 
 📞 [+6684 717 7425](https://wa.me/66847177425) | 
 📧 [boon.aksornukul@gmail.com](mailto:boon.aksornukul@gmail.com) | 

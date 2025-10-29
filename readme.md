@@ -1,10 +1,10 @@
-# Worayut Aksornukul (Boon)
+<div align="center">
 
-<div align="left">
+<h1>Worayut Aksornukul (Boon)</h1>
 
-📞 [+6684 717 7425](https://wa.me/66847177425) | 
-📧 [boon.aksornukul@gmail.com](mailto:boon.aksornukul@gmail.com) | 
-🔗 [linkedin.com/in/worayut-aksornukul](https://www.linkedin.com/in/worayut-aksornukul/)
+📞 <a href="https://wa.me/66847177425"><b>+6684 717 7425</b></a> &nbsp;|&nbsp;
+📧 <a href="mailto:boon.aksornukul@gmail.com"><b>boon.aksornukul@gmail.com</b></a> &nbsp;|&nbsp;
+🔗 <a href="https://www.linkedin.com/in/worayut-aksornukul/"><b>linkedin.com/in/worayut-aksornukul</b></a>
 
 </div>
 

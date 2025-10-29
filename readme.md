@@ -26,7 +26,7 @@
 
 ---
 
-### Sofaboy Cleaning and Maintenance Co., Ltd. — *Co-Founder*  
+### Sofaboy Cleaning and Maintenance Co., Ltd. — *Business Systems Developer*  
 *Nov 2019 – Oct 2022*  
 
 - Developed and implemented diverse cleaning services in Bangkok, including upholstery, carpet cleaning, and disinfectant spraying, increasing revenue to 400k THB monthly.  

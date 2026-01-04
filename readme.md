@@ -8,48 +8,57 @@
 
 </div>
 
-
 ---
 
-## Experience
+## PROFESSIONAL SUMMARY
+DevOps Engineer with hands-on experience operating Azure cloud infrastructure and Kubernetes platforms in enterprise environments. Specialized in CI/CD automation, GitOps deployments, AKS cluster operations, and cloud security integration. Proven ability to manage non-production environments, maintain shared platform services, and collaborate with engineering teams to improve deployment reliability and platform stability. Open to roles across banking, product, and technology-driven organizations.
+
+## EXPERIENCE
 
 ### Siam Commercial Bank (SCB) — *DevOps Engineer*  
 *Jan 2024 – Present*  
 
-- Designed and implemented Jenkins CI/CD pipelines, automating build, test, and deployment processes.  
-- Deployed applications using ArgoCD for consistent and reliable delivery across environments.  
-- Orchestrated containerized applications with Kubernetes, managing pod lifecycle and optimizing resource allocation.  
-- Provisioned Azure cloud infrastructure with Terraform, ensuring version-controlled deployments.  
-- Developed Open Policy Agent policies with Rego to enforce automated security checks during deployment.  
-- Collaborated with development teams to create robust pipeline architectures throughout the SDLC.  
-- Maintained cloud infrastructure to support scalable and efficient application delivery.  
+- Managed and maintained Azure non-production environments, ensuring stable, secure, and reproducible infrastructure for development and testing teams.
+- Designed and implemented Jenkins CI/CD pipelines, automating build, test, and deployment workflows to reduce manual intervention and deployment errors.
+- Implemented GitOps-based deployments using ArgoCD, enabling consistent application delivery and simplified rollback across Kubernetes environments.
+- Operated and administered Azure Kubernetes Service (AKS) clusters, including:
+  - Performing AKS version upgrades to maintain platform security and compatibility
+  - Upgrading and managing NGINX Ingress Controller versions
+  - Managing Kubernetes workloads, deployments, and resource utilization
+  - Integrated Azure Key Vault with AKS using CSI Driver, enabling secure, secretless application configuration and improved credential management.
+- Maintained a centralized Apache Airflow service in non-production environments to support shared data and workflow orchestration use cases.
+- Provisioned and maintained cloud infrastructure using Terraform, ensuring infrastructure-as-code, version control, and repeatable deployments.
+- Developed and enforced Open Policy Agent (OPA) policies using Rego to automate security and compliance checks within CI/CD pipelines.
+- Worked closely with developers and technical leads to design CI/CD and platform architectures aligned with SDLC best practices.
+
+**Technologies**: Azure, AKS, ACR, Application Gateway, Terraform, Jenkins, ArgoCD, Kubernetes, NGINX Ingress, OPA, Rego, Airflow, Azure Key Vault, Managed Identity
 
 ---
 
 ### Sofaboy Cleaning and Maintenance Co., Ltd. — *Business Systems Developer*  
 *Nov 2019 – Oct 2022*  
 
-- Developed and implemented diverse cleaning services in Bangkok, including upholstery, carpet cleaning, and disinfectant spraying, increasing revenue to 400k THB monthly.  
-- Automated document issuance and payroll processes using Google Script and Google Sheets, enhancing operational efficiency by 60%.  
-- Created a tracking platform on Google Appsheet for work progress updates and customer delivery scheduling.  
-- Established an employee portal for requests, company holidays, and online payslip access.  
-- Maintained comprehensive financial records, budgets, customer credits, and tax documentation for effective financial planning.  
+- Built internal automation systems using Google Apps Script and Google Sheets, reducing manual operational effort by ~60%.
+- Developed lightweight internal tools for job tracking, scheduling, and payroll automation.
+- Designed scalable internal workflows that supported business growth to ~400,000 THB/month revenue.
 
 ---
 
 ### Accenture — *Technology Consulting Analyst*  
 *Jun 2018 – Sep 2019*  
 
-- Developed a payment processing app using Robotic Process Automation (RPA) technology Kapow to automate corporate banking processes (inward/outward remittance and domestic transfers), resulting in a **40% back-office man-hour reduction**.  
+- Developed a Robotic Process Automation (RPA) solution using Kapow to automate corporate banking payment operations.
+- Automated inward/outward remittance and domestic transfer workflows, reducing back-office processing effort by ~40%.
+- Collaborated with business and technical stakeholders to analyze processes and deliver scalable automation solutions.
+
+**Technologies**: RPA (Kapow), Process Automation, Banking Systems
 
 ---
 
-## Education
+## EDUCATION
 
 ### MSc in Robotics, University of Bristol  
 *Sep 2022 – Sep 2023* — **With Distinction**  
-
----
 
 ### BEng in Automotive Design & Manufacturing, Chulalongkorn University  
 *Sep 2014 – May 2018*  
@@ -57,16 +66,19 @@
 
 ---
 
-## Skills
+## TECHNICAL SKILLS
 
-**Cloud & Infrastructure:** Azure, Terraform, Cloud Infrastructure Management  
-**DevOps Tools:** Jenkins, ArgoCD, Kubernetes, CI/CD Pipelines  
-**Security & Policies:** Open Policy Agent (OPA), Rego  
-**General:** Cloud Computing, Automation, Orchestration  
+**Cloud Platforms**: Microsoft Azure
+**Container & Orchestration**: Kubernetes, AKS, NGINX Ingress
+**CI/CD & GitOps**: Jenkins, ArgoCD, CI/CD Pipelines
+**Infrastructure as Code**: Terraform
+**Security & Identity**: Azure Key Vault, Managed Identity, OPA, Rego
+**DevOps Tooling**: ACR, Application Gateway, Airflow
+**General**: Cloud Architecture, Automation, Platform Operations
 
 ---
 
-## Publications
+## PUBLICATIONS
 
 **Mathematical Model and Design Exploration of Soft Comfortable, Effective Anchoring for Wearable Assistive Technologies**  
 *Worayut Aksornukul et al.*  
